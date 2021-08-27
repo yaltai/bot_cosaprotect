@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
+    "node": "16.x",
     "abortcontroller-polyfill": "^1.7.3",
     "discord.js": "^13.1.0",
     "distube": "^2.8.12",
@@ -13,8 +14,6 @@
     "fs": "^0.0.1-security",
     "glob": "^7.1.7",
     "jsdom": "^17.0.0",
-    "node": "16.6.1",
-    "npm": "7.x",
     "opusscript": "^0.0.8",
     "simple-youtube-api": "^5.2.1",
     "util": "^0.12.4",
