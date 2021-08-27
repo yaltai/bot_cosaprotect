@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
+    "abortcontroller-polyfill": "^1.7.3",
     "discord.js": "^13.1.0",
     "distube": "^2.8.12",
     "dotenv-flow": "^3.2.0",
